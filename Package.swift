@@ -19,7 +19,7 @@ let package = Package(
         // Targets can depend on other targets in this package and products from dependencies.
         .binaryTarget(
                    name: "ZebraScannerSDK",
-                   url: "https://github.com/ZebraDevs/Zebra-Scanner-SDK-iOS-SPM/releases/download/v1.4.44/ZebraScannerSDK.xcframework.zip",
+                   url: "https://github.com/ZebraDevs/Zebra-Scanner-SDK-iOS-SPM/releases/download/1.4.44/ZebraScannerSDK.xcframework.zip",
                    checksum: "6eb05217b2c9f8c974fb9d6ae3b045aac9d57cd5a5b7a8447d69a20bde23a658"
                )
     ]
