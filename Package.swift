@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "ZebraScannerSDK",
     platforms: [
-            .iOS(.v15)
+            .iOS(.v16)
         ],
     products: [
         // Products define the executables and libraries a package produces, making them visible to other packages.
@@ -19,8 +19,8 @@ let package = Package(
         // Targets can depend on other targets in this package and products from dependencies.
         .binaryTarget(
                    name: "ZebraScannerSDK",
-                   url: "https://github.com/ZebraDevs/Zebra-Scanner-SDK-iOS-SPM/releases/download/1.4.43/ZebraScannerSDK.xcframework.zip",
-                   checksum: "58434ec8bfef2b79c06577293d27b6aea7da064f74aa69145840e18cf55f5e2e"
+                   url: "https://github.com/ZebraDevs/Zebra-Scanner-SDK-iOS-SPM/releases/download/1.4.44/ZebraScannerSDK.xcframework.zip",
+                   checksum: "8dff2b8e68debc80d7f9a0cb6e238e9bc1d8e78b4c89accd72258e52c66109c6"
                )
     ]
 )
