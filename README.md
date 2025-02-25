@@ -41,8 +41,8 @@ returns).
 The Zebra Scanner SDK documentation can be found [here](https://techdocs.zebra.com/dcs/scanners/sdk-ios/about/).
 
 ## Requirements
-Xcode 15.0 or later.<br>
-iOS 15.0 or later.
+Xcode 16.0 or later.<br>
+iOS 16.0 or later.
 
 ## Installation and Setup
 
